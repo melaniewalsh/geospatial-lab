@@ -9,6 +9,10 @@ The datasets contain information about [Nobel Prize Winners from 1901-2017](/sam
 
 The sample [Google Maps](https://www.google.com/maps/d/) project created in class with Nobel Prize data can be [found and explored here](https://drive.google.com/open?id=1OLTmzKCDMHLTEzJBkPxmOFfETv3B1U0l&usp=sharing).
 
+![][3]
+
+[3]: images/google-map.png
+
 *****
 
 The sample [QGIS](https://www.qgis.org/en/site/) project and interactive web map can be [found and explored here](http://melaniewalsh.org/nobel-laureate-map).
